@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "834963620340",
+    "project_id": "health-ai-66455",
+    "storage_bucket": "health-ai-66455.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834963620340:android:a1707fda8d8e351984f9a1",
+        "android_client_info": {
+          "package_name": "com.flutterflow.healthai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834963620340-bue9sd2lhbvpce6emm14iarigdb2e2k7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.healthai",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "834963620340-4qth1kdlj7q7n1ikur588smfbpu9f2mb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATXUYzZDUuAaP61dK3uIC1I5ECfKVImRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834963620340-4qth1kdlj7q7n1ikur588smfbpu9f2mb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "834963620340-donco1v5p3citpstj8kvrcf5tf5pb4da.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "health-ai"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834963620340:android:4dca5e39d902bda784f9a1",
+        "android_client_info": {
+          "package_name": "health.ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834963620340-4qth1kdlj7q7n1ikur588smfbpu9f2mb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATXUYzZDUuAaP61dK3uIC1I5ECfKVImRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834963620340-4qth1kdlj7q7n1ikur588smfbpu9f2mb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "834963620340-donco1v5p3citpstj8kvrcf5tf5pb4da.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "health-ai"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
