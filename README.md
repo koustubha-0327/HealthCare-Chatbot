@@ -21,5 +21,5 @@ samples, guidance on mobile development, and a full API reference.
 
 
 Requirements:
--- Flutter SDK
--- Dart 
+-> Flutter SDK
+-> Dart 
