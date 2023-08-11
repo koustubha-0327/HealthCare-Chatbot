@@ -20,6 +20,6 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-Requirements:
--> Flutter SDK
+Requirements: <br>
+-> Flutter SDK <br>
 -> Dart 
