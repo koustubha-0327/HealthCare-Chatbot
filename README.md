@@ -1,4 +1,5 @@
-Healthcare Android Application with AI-Assisted Chatbot
+##Healthcare Android Application with AI-Assisted Chatbot
+
 This README provides an overview of our Healthcare Android Application developed using Dart and Flutter SDK. The application offers users a seamless and convenient solution for managing their healthcare needs, complemented by an AI-assisted chatbot for an enhanced user experience.
 
 Introduction
