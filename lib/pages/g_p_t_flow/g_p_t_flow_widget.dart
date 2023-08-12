@@ -553,7 +553,7 @@ class _GPTFlowWidgetState extends State<GPTFlowWidget> {
                                           .sendFullPromptCall
                                           .call(
                                     apiKey:
-                                        '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',
+                                        '', // <-- Add your GPT API Key here
                                     promptJson: _model.chatHistory,
                                   );
                                   if ((_model.chatGPTResponse?.succeeded ??
